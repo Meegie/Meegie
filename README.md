@@ -214,8 +214,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [stars-url]: https://github.com/Meegie/Meegie/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Meegie/Meegie.svg?style=for-the-badge
 [issues-url]: https://github.com/Meegie/Meegie/issues
-[license-shield]: https://img.shields.io/github/license/Meegie/Meegie.svg?style=for-the-badge
-[license-url]: https://github.com/Meegie/Meegie/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/repo-size/Meegie/Meegie.svg?style=for-the-badge
+[license-url]: https://github.com/Meegie/Meegie
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
