@@ -27,7 +27,7 @@
 <h3 align="center">Meegie</h3>
 
   <p align="center">
-    Meegie is a cloud hosted containerized desktop provider.
+    Meegie is an open source minecraft server.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
